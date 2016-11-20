@@ -1,5 +1,5 @@
 /*
-AUTHORS: Neeraj Fernandes, Yogen Chaudhari and Mihir Garude
+AUTHORS: Mihir Garude
 
 Date: 28th Spetember, 2016
 
